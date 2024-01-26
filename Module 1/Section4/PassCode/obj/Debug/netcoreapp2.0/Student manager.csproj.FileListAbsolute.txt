@@ -1,0 +1,14 @@
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.csproj.AssemblyReference.cache
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.AssemblyInfoInputs.cache
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.AssemblyInfo.cs
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.sourcelink.json
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\bin\Debug\netcoreapp2.0\Student manager.deps.json
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\bin\Debug\netcoreapp2.0\Student manager.runtimeconfig.json
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\bin\Debug\netcoreapp2.0\Student manager.runtimeconfig.dev.json
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\bin\Debug\netcoreapp2.0\Student manager.dll
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\bin\Debug\netcoreapp2.0\Student manager.pdb
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.dll
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.pdb
+C:\Users\riley\source\repos\Lab1\Module 1\Section4\PassCode\obj\Debug\netcoreapp2.0\Student manager.genruntimeconfig.cache
